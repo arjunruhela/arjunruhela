@@ -4,7 +4,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=arjunruhela&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232054363%3Fu%3D06c093332cd589ac3a938df728f1e84cfa0f112d%26v%3D4" alt="arjunruhela hero visual" />
 </p>
 
-**Arjun Ruhela ** · Frontend or full-stack engineer
+**Arjun Ruhela ** · Full-stack engineer
 
 ## Currently learning
 
@@ -12,9 +12,9 @@
 
 **Learning next**
 
-- Python
+- C++
 - JavaScript
-- TypeScript
+- Python
 
 👥 **4** followers · **4** following
 
