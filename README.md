@@ -48,7 +48,7 @@ A selected project from this GitHub profile.<br/>
 </details>
 
 <details>
-<summary><b>Growth-AI</b> · Type</summary>
+<summary><b>Growth-AI</b> · TypeScript</summary>
 
 A selected project from this GitHub profile.<br/>
 ⭐ 0 · 🍴 0
